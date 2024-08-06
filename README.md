@@ -5,5 +5,6 @@
     
 - faz o L 13
 - @corinthians
-- este é o meu projeto  
+- este é o meu projeto
+- É um jogo de ping pong que a bola fica no meio se rebatemdo 
 https://scratch.mit.edu/projects/1032107381

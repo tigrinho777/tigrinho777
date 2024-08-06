@@ -1,6 +1,6 @@
 - @glm_.silva 
 - È o brazino o jogo da galera
--  "Nâo espere o futuro mudar tua vida
+-  "Nâo espere o futuro mudar tua vida"
 - 
 - faz o L 13
 - @corinthians 
